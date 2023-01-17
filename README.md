@@ -1,9 +1,12 @@
 ### Hi there 👋
 
-[![hawkiq's github stats](https://github-readme-stats.vercel.app/api?username=hawkiq&count_private=true&show_icons=true&theme=php)](https://github.com/hawkiq)
+[![hawkiq's github stats](https://hawkiq-stats.vercel.app/api?username=hawkiq&count_private=true&show_icons=true&theme=php)](https://github.com/hawkiq)
 
-###About
+### About
 Iam a Software Engineer graduated from University of Technology - Baghdad in 2009 with passion to be a big web develper , I started to create websites since 2006 when I was in high school , from that day I dedicated my time to learn more and more, once I saw a quote says , If you want to Learn someting ,teach it. So I started to post Web programming tutorials on Youtube to give knowledge we have for free.
+
+[![Top Langs](https://hawkiq-stats.vercel.app/api/top-langs/?username=hawkiq&layout=compact)](https://github.com/hawkiq)
+
 
 ### Connect with me:
 
