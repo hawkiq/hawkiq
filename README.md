@@ -1,28 +1,29 @@
-<img src="https://i.imgur.com/IJMa6nkl.jpg" alt="hawkiq">
+<div align="center"><img src="https://i.imgur.com/IJMa6nkl.jpg" width=300 height=300 alt="hawkiq"></div>
 
 
 ## Hi there 👋
 
-### About Me
+### 👯 About Me
 I am a Software Engineer graduated from the University of Technology - Baghdad in 2009. With a passion for becoming a leading web developer, I started creating websites in 2006 during high school. Since then, I have dedicated my time to learning more and more. As the saying goes, "If you want to learn something, teach it." So, I began posting web programming tutorials on YouTube to share my knowledge for free.
 
-### Skills and Technologies
+### ⚡ Skills and Technologies
 - **Languages**: JavaScript, PHP, 
 - **Frameworks**: Laravel, Bootstrap, Vue.js
 - **Tools**: Git, Laravel Excel, BladeOne and more
 
-### Pinned Projects
+### 🔭 Pinned Projects
 - **[Laravel Zain Cash](https://github.com/hawkiq/laravel-zaincash)**
 - **[PSN Laravel helper](https://github.com/hawkiq/Larapsn)**
+- **[Pokemon BDSP Phrases Editor](https://github.com/hawkiq/Pokemon-BDSP-Phrases-Editor)**
 
-### Achievements
+### 😄 Achievements
 - Awarded the Best Web Developer by [CRCC] in [2021]
 
-### GitHub Stats
+### 🤔 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=hawkiq&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawkiq&layout=compact&theme=radical)
 
-### Testimonials
+### 💬 Testimonials
 > "Osama is a brilliant developer who consistently delivers top-notch work." - [Bashar], [CEO at CRCC].
 >
 
@@ -38,8 +39,10 @@ I am a Software Engineer graduated from the University of Technology - Baghdad i
 > "I've learned so much from Osama's YouTube channel. His tutorials are clear, concise, and very informative."  
 > **[Sara]**
 
+> "I didn't find any good teacher as Eng.OsaMa , has great knowledge and I understands my lecture easier than my college."  
+> **[Maha]**
 
-### Connect with Me
+### 📫 Connect with Me
 <p align="center">
   <a href="https://osama.app" target="_blank"><img src="https://img.icons8.com/color/48/000000/domain.png" alt="Official Website" width="22px" style="padding:0 5px 0 5px"></a>
   <a href="https://www.youtube.com/IQTECH/" target="_blank"><img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube Channel" width="22px" style="padding:0 5px 0 5px"></a>
